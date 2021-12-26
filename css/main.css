@@ -1,0 +1,185 @@
+.logo{
+	width:10px ;
+	height:151px ;
+	float: right ;
+	margin-right: 300px;
+}
+.container{
+	width:1250px ;
+	height:200px ;
+	background: #56836F;
+	border: #006837;
+}
+ul{
+	display: inline-block;
+	float: left;
+	margin-left: 200px;
+}
+li{
+	display: inline-block;
+	padding: 17px;
+
+}
+a{
+	font-size:30px ;
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+section{
+
+	width:1250px ;
+	height:1100px ;
+	background: #56836F;
+	border: #006837;
+}
+article img{
+	height:151 ;
+	width:118 ;
+	object-fit: cover;
+}
+
+div{
+	display: inline-block;
+}
+.img1{
+	float: left;
+	margin-top: 18px;
+	margin-right: 26px;
+	margin-left: 26px;
+}
+.img3{
+	float: right;
+	margin-right: 18px;
+	margin-top: 17px;
+	margin-right: 10px;
+}
+.img2{
+	float: right;
+	margin-top: 50px;
+	margin-right: 6px;
+	margin-left: 10px;
+}
+.img4{
+	margin-left: 31px;
+	margin-top: 18px;
+
+}
+.art1{
+     margin-bottom: 20px;
+	display:flex;
+}
+.art1{
+	float:right;
+	padding: 10px;
+	}
+.art2{
+    float: left;
+	display: flex;
+	padding: 20px;
+}
+.container2{
+    width:600px;
+	height:300px ;
+	background: #FCEE21;
+}
+.box2{
+
+	width:600px;
+	height:300px ;
+	background: #FCEE21;
+}
+.box3{
+
+	width:600px;
+	height:300px ;
+	background: #FCEE21;
+}
+.box4{
+    width:523px;
+	height:708px ;
+	background: #FCEE21;
+}
+.p1{
+	font-size: 14px;
+	width: 550px;
+	height:400 px;
+	margin-left: 27px;
+}
+.p2{
+	font-size: 14px;
+	width: 550px;
+	height:400 px;
+	margin-left: 27px;
+}
+.p3{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	width: 397px;
+	height:160px;
+	margin-left:67px ;
+	margin-top:51px ;
+	margin-right:57px ;
+
+}
+.p4{
+	font-size: 14px;
+	margin-left: 51px;
+	margin-top: 17px;
+}
+.p6{
+	font-size: 14px;
+	margin-left:31px ;
+	margin-top:17px ;
+	margin-right: 10px;
+
+}
+
+/*.p1{
+	font-size:14px ;
+	width: 397px;
+	height:10px;
+	margin-left:36px ;
+	margin-top:17px ;
+	margin-right:37px ;
+
+
+}
+
+.p3{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	width: 397px;
+	height:160px;
+	margin-left:67px ;
+	margin-top:51px ;
+	margin-right:57px ;
+
+}
+.p4{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	float:right;
+
+}
+.p5{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	float:right;
+}
+/*.p6{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	float: right;
+}
+/*.p7{
+	font-size:14px ;
+	width: 397px;
+	height:160px ;
+	float: right;
+}
