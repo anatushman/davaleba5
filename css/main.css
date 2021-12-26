@@ -6,7 +6,7 @@
 	margin-right: 300px;
 }
 .container{
-	width:1250px ;
+	width:1286px ;
 	height:0px ;
 	background: #56836F;
 	border: #006837;
@@ -28,7 +28,7 @@ a{
 }
 
 section{
-    width:1250px ;
+    width:1286px ;
 	height:1400px ;
 	background: #56836F;
 	border: #006837;
@@ -70,15 +70,16 @@ div{
 	margin-top: 300px;
      margin-bottom: 20px;
 	display:flex;
+
 }
 .art1{
 	float:right;
-	padding: 10px;
+	padding: 20px;
 	}
 .art2{
     float: left;
 	display: flex;
-	padding: 15px;
+	padding: 20px;
 }
 .container2{
     width:600px;
